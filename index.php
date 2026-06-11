@@ -344,11 +344,9 @@
                                 </figure>
                             </div>
                             <div class="working-hour-box">
-                                <h3>Working Hours:</h3>
+                                <h3>Availability:</h3>
                                 <ul>
-                                    <li><span>Mon to Fri:-</span> 10:00 AM - 6:00 PM</li>
-                                    <li><span>Saturday:-</span> 10:00 AM - 4:00 PM</li>
-                                    <li><span>Sunday:-</span> By Appointment</li>
+                                    <li>Mon to Sun:<span>Available 24/7</span></li>
                                 </ul>
                             </div>
                         </div>

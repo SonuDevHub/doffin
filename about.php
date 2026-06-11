@@ -106,7 +106,7 @@
                         <div class="approach-image-cta-box">
                             <div class="icon-box">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="36" height="36">
-                                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+                                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
                                 </svg>
                             </div>
                             <div class="approach-image-cta-content">
@@ -141,9 +141,9 @@
                                     <div class="approach-body-item-header">
                                         <div class="icon-box">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                                <circle cx="12" cy="12" r="10"/>
-                                                <circle cx="12" cy="12" r="6"/>
-                                                <circle cx="12" cy="12" r="2"/>
+                                                <circle cx="12" cy="12" r="10" />
+                                                <circle cx="12" cy="12" r="6" />
+                                                <circle cx="12" cy="12" r="2" />
                                             </svg>
                                         </div>
                                         <div class="approach-body-item-title">
@@ -159,8 +159,8 @@
                                     <div class="approach-body-item-header">
                                         <div class="icon-box">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
-                                                <circle cx="12" cy="12" r="3"/>
+                                                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                                                <circle cx="12" cy="12" r="3" />
                                             </svg>
                                         </div>
                                         <div class="approach-body-item-title">
@@ -192,11 +192,9 @@
                             </figure>
                         </div>
                         <div class="working-hour-box">
-                            <h3>Working Hours:</h3>
+                            <h3>Availability:</h3>
                             <ul>
-                                <li>Mon to Fri:<span>10:00 AM - 6:00 PM</span></li>
-                                <li>Saturday:<span>10:00 AM - 4:00 PM</span></li>
-                                <li>Sunday:<span>By Appointment</span></li>
+                                <li>Mon to Sun:<span>Available 24/7</span></li>
                             </ul>
                         </div>
                     </div>
@@ -214,8 +212,8 @@
                             <div class="features-item wow fadeInUp" data-wow-delay="0.4s">
                                 <div class="icon-box">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-                                        <polyline points="9 12 11 14 15 10"/>
+                                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                                        <polyline points="9 12 11 14 15 10" />
                                     </svg>
                                 </div>
                                 <div class="features-item-content">
@@ -227,7 +225,7 @@
                             <div class="features-item wow fadeInUp" data-wow-delay="0.6s">
                                 <div class="icon-box">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                        <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"/>
+                                        <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4" />
                                     </svg>
                                 </div>
                                 <div class="features-item-content">
@@ -276,8 +274,8 @@
                         <div class="how-work-item-header">
                             <div class="icon-box">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                    <circle cx="11" cy="11" r="8"/>
-                                    <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                                    <circle cx="11" cy="11" r="8" />
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65" />
                                 </svg>
                             </div>
                             <div class="how-work-item-no">
@@ -300,8 +298,8 @@
                         <div class="how-work-item-header">
                             <div class="icon-box">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
-                                    <circle cx="12" cy="10" r="3"/>
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                                    <circle cx="12" cy="10" r="3" />
                                 </svg>
                             </div>
                             <div class="how-work-item-no">
@@ -324,9 +322,9 @@
                         <div class="how-work-item-header">
                             <div class="icon-box">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" width="32" height="32">
-                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                                    <polyline points="14 2 14 8 20 8"/>
-                                    <polyline points="9 15 11 17 15 13"/>
+                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                                    <polyline points="14 2 14 8 20 8" />
+                                    <polyline points="9 15 11 17 15 13" />
                                 </svg>
                             </div>
                             <div class="how-work-item-no">
