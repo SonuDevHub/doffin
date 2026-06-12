@@ -9,10 +9,10 @@
     <meta name="keywords" content="contact Doffin Constructions, real estate enquiry Tricity, site visit Mohali, plot booking Punjab, Doffin sales team">
     <meta name="author" content="Doffin Constructions LLP">
     <title>Contact Us | Doffin Constructions LLP</title>
-    <link rel="shortcut icon" type="image/x-icon" href="images/logo/loader/loader.svg"">
-    <link rel=" preconnect" href="https://fonts.googleapis.com/">
+    <link rel="shortcut icon" type="image/x-icon" href="images/logo/loader/loader.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="css/slicknav.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
@@ -21,6 +21,14 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/mousecursor.css">
     <link href="css/custom.css" rel="stylesheet" media="screen">
+
+    <!-- EmailJS -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script>
+        (function () {
+            emailjs.init({ publicKey: "5iD1HTemPCPw5MaUD" });
+        })();
+    </script>
 </head>
 
 <body>
@@ -137,7 +145,7 @@
 
                         <!-- Contact Form Start -->
                         <div class="contact-form">
-                            <form id="contactForm" action="#" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.4s">
+                            <form id="contactForm" class="wow fadeInUp" data-wow-delay="0.4s" novalidate>
                                 <div class="row">
                                     <div class="form-group col-md-6 mb-4">
                                         <label>First Name:</label>
@@ -170,8 +178,11 @@
                                     </div>
 
                                     <div class="col-md-12">
-                                        <button type="submit" class="btn-default">Send Message</button>
-                                        <div id="msgSubmit" class="h3 hidden"></div>
+                                        <button type="submit" id="submitBtn" class="btn-default">
+                                            <span id="btnText">Send Message</span>
+                                            <span id="btnLoading" style="display:none;">Sending...</span>
+                                        </button>
+                                        <div id="formError" style="display:none; color:red; margin-top:10px;"></div>
                                     </div>
                                 </div>
                             </form>
@@ -215,7 +226,6 @@
 
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/validator.min.js"></script>
     <script src="js/jquery.slicknav.js"></script>
     <script src="js/swiper-bundle.min.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
@@ -230,6 +240,55 @@
     <script src="js/jquery.mb.YTPlayer.min.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/function.js"></script>
+
+    <!-- EmailJS Form Handler -->
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            var fname   = document.getElementById('fname').value.trim();
+            var lname   = document.getElementById('lname').value.trim();
+            var email   = document.getElementById('email').value.trim();
+            var phone   = document.getElementById('phone').value.trim();
+            var message = document.getElementById('message').value.trim();
+            var errorBox = document.getElementById('formError');
+
+            // Basic validation
+            if (!fname || !lname || !email || !phone) {
+                errorBox.style.display = 'block';
+                errorBox.textContent = 'Please fill in all required fields.';
+                return;
+            }
+
+            errorBox.style.display = 'none';
+
+            // Show loading state
+            document.getElementById('btnText').style.display = 'none';
+            document.getElementById('btnLoading').style.display = 'inline';
+            document.getElementById('submitBtn').disabled = true;
+
+            var templateParams = {
+                title   : 'New Enquiry from Website',
+                name    : fname + ' ' + lname,
+                email   : email,
+                phone   : phone,
+                message : message || 'No message provided.'
+            };
+
+            emailjs.send('service_wvlfawm', 'template_by5v5p9', templateParams)
+                .then(function () {
+                    window.location.href = 'thank-you.php';
+                }, function (error) {
+                    document.getElementById('btnText').style.display = 'inline';
+                    document.getElementById('btnLoading').style.display = 'none';
+                    document.getElementById('submitBtn').disabled = false;
+                    errorBox.style.display = 'block';
+                    errorBox.textContent = 'Something went wrong. Please try again or call us directly.';
+                    console.error('EmailJS Error:', error);
+                });
+        });
+    </script>
+
 </body>
 
 </html>

@@ -48,7 +48,7 @@
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                                <li class="breadcrumb-item"><a href="projects.html">/ Projects</a></li>
+                                <li class="breadcrumb-item"><a href="#">/ Projects</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">/ The Gem City</li>
                             </ol>
                         </nav>

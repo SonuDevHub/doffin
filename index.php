@@ -21,10 +21,41 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/mousecursor.css">
     <link href="css/custom.css" rel="stylesheet" media="screen">
+    <!-- goolge console -->
+    <meta name="google-site-verification" content="ONdupedBxJKvMrdxPx9sXO7ol2evZ5U-YtaTKg-_cpE" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQ8BXWYW6P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-RQ8BXWYW6P');
+    </script>
+    <!-- clarity -->
+    <script type="text/javascript">
+        (function(c, l, a, r, i, t, y) {
+            c[a] = c[a] || function() {
+                (c[a].q = c[a].q || []).push(arguments)
+            };
+            t = l.createElement(r);
+            t.async = 1;
+            t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0];
+            y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "x5vx0p0nd7");
+    </script>
+
 </head>
 
 <body>
-
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKJHSRHC"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <!-- Preloader Start -->
     <div class="preloader">
         <div class="loading-container">
@@ -42,7 +73,7 @@
     <div class="hero-moon hero-video dark-section">
         <div class="hero-bg-video">
             <video autoplay muted loop id="myvideo">
-                <source src="https://demo.awaikenthemes.com/assets/videos/antila-video.mp4" type="video/mp4">
+                <source src="https://doffinconstructionsllp.com/hero-video/hero-video.mp4" type="video/mp4">
             </video>
         </div>
         <div class="container">
@@ -304,7 +335,7 @@
                         <p>Invest in high-growth corridors with Doffin. <a href="contact.html">Get a free consultation today.</a></p>
                     </div>
                     <div class="section-btn text-center wow fadeInUp" data-wow-delay="0.6s" style="margin-top: 30px;">
-                        <a href="projects.html" class="btn-default">Explore All Projects</a>
+                        <a href="projects-legacy" class="btn-default">Explore All Projects</a>
                     </div>
                 </div>
             </div>
