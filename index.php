@@ -420,7 +420,7 @@
     <!-- Why Choose Us Section End -->
 
     <!-- Our Leadership Section Start -->
-    <!-- <div class="our-team our-team-prime">
+    <div class="our-team our-team-prime">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
@@ -436,20 +436,13 @@
                     <div class="team-item wow fadeInUp">
                         <div class="team-item-image">
                             <figure class="image-anime">
-                                <img src="images/director-doffin-mehta.jpg" alt="Mr. Doffin Mehta">
+                                <img src="images/team/1.png" alt="Mr. Doffin Mehta">
                             </figure>
                         </div>
                         <div class="team-item-body">
                             <div class="team-item-content">
                                 <h2>Mr. Doffin Mehta</h2>
                                 <p>Chairman & Managing Director</p>
-                            </div>
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="https://www.facebook.com/share/1H4v6HRMNu/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/doffin_constructions_llp" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -459,7 +452,7 @@
                     <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
                         <div class="team-item-image">
                             <figure class="image-anime">
-                                <img src="images/director-garima-bhasin.jpg" alt="Garima Bhasin">
+                                <img src="images/team/2.png" alt="Garima Bhasin">
                             </figure>
                         </div>
                         <div class="team-item-body">
@@ -467,19 +460,12 @@
                                 <h2>Garima Bhasin</h2>
                                 <p>Director</p>
                             </div>
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="https://www.facebook.com/share/1H4v6HRMNu/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/doffin_constructions_llp" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Our Leadership Section End -->
 
     <!-- Our Faqs Section Start -->
