@@ -93,7 +93,7 @@
                         <div class="amenity-benefits-list wow fadeInUp" data-wow-delay="0.2s">
                             <ul>
                                 <li><strong>Phone:</strong> +91 82950 50505</li>
-                                <li><strong>Email:</strong> doffinconstructionsllp@gmail.com</li>
+                                <li><strong>Email:</strong> info@doffinconstructionsllp.com</li>
                                 <li><strong>Address:</strong> Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603</li>
                             </ul>
                         </div>

@@ -101,7 +101,7 @@
                                 </div>
                                 <div class="contact-info-item-content">
                                     <h3>Email Address</h3>
-                                    <p><a href="mailto:doffinconstructionsllp@gmail.com">doffinconstructionsllp@gmail.com</a></p>
+                                    <p><a href="mailto:info@doffinconstructionsllp.com">info@doffinconstructionsllp.com</a></p>
                                 </div>
                             </div>
 
@@ -204,7 +204,7 @@
                     <div class="section-title section-title-center">
                         <span class="section-sub-title wow fadeInUp">Our Location</span>
                         <h2 class="text-anime-style-3" data-cursor="-opaque">Visit Our Corporate Office in Mohali</h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.2s">We are located at Motia Guilford, Bir Chhat, Mohali. Our team is available Monday to Saturday to assist you with site visits, project details, and investment planning.</p>
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">We are located at Motia Guilford, Bir Chhat, Mohali. Our team is available Monday to Sunday to assist you with site visits, project details, and investment planning.</p>
                     </div>
                 </div>
             </div>

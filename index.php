@@ -282,7 +282,7 @@
                         </div>
                         <div class="project-item-content">
                             <h2><a href="project-luxe-square.html">The Luxe Square</a></h2>
-                            <p>Commercial | Ambala-Chandigarh Highway</p>
+                            <p>Commercial | Sarsini, Punjab</p>
                         </div>
                     </div>
                 </div>
@@ -301,7 +301,7 @@
                         </div>
                         <div class="project-item-content">
                             <h2><a href="project-gem-city.html">The Gem City</a></h2>
-                            <p>Residential Plotting | Landran-Banur Road</p>
+                            <p>Residential Only | Landran-Banur Road</p>
                         </div>
                     </div>
                 </div>
@@ -538,7 +538,7 @@
                             </h2>
                             <div id="collapse1" class="accordion-collapse collapse" role="region" aria-labelledby="heading1" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Doffin Constructions LLP offers a diverse portfolio including premium commercial spaces, residential plotting projects, luxury residences, and integrated townships across Tricity, Punjab, and Haryana. Key projects include The Luxe Square, The Gem City, Majestic City, and Fiona Gardens.</p>
+                                    <p>Doffin Constructions LLP offers a diverse portfolio including premium commercial spaces, residential only projects, and integrated townships across Tricity, Punjab, and Haryana. Key projects include The Luxe Square, The Gem City, Majestic City, and Fiona Gardens.</p>
                                 </div>
                             </div>
                         </div>
@@ -603,7 +603,7 @@
                             </h2>
                             <div id="collapse6" class="accordion-collapse collapse" role="region" aria-labelledby="heading6" data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>You can reach us at +91 82950 50505 or email doffinconstructionsllp@gmail.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
+                                    <p>You can reach us at +91 82950 50505 or email info@doffinconstructionsllp.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
                                 </div>
                             </div>
                         </div>

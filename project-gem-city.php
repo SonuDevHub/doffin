@@ -8,7 +8,7 @@
     <meta name="description" content="The Gem City by Doffin Constructions LLP — A 25-acre luxury residential plotting project on Landran-Banur Road, Saneta. Premium plots with wide roads, green surroundings and seamless city connectivity.">
     <meta name="keywords" content="The Gem City, residential plots Mohali, luxury plotting Landran Banur Road, Doffin residential project, plots Saneta Punjab">
     <meta name="author" content="Doffin Constructions LLP">
-    <title>The Gem City — Residential Plotting | Doffin Constructions LLP</title>
+    <title>The Gem City — Residential Only | Doffin Constructions LLP</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/logo/loader/loader.svg"">
     <link rel=" preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -73,9 +73,9 @@
                             <h2 class="page-category-list-title">Our Projects</h2>
                             <ul>
                                 <li><a href="project-luxe-square.html">The Luxe Square — Commercial</a></li>
-                                <li><a href="project-gem-city.html" class="active">The Gem City — Residential Plotting</a></li>
+                                <li><a href="project-gem-city.html" class="active">The Gem City — Residential Only</a></li>
                                 <li><a href="project-majestic-city.html">Majestic City — Township</a></li>
-                                <li><a href="project-fiona-gardens.html">Fiona Gardens — Luxury Residences</a></li>
+                                <li><a href="project-fiona-gardens.html">Fiona Gardens — Residential Only</a></li>
                                 <li><a href="projects-legacy.html">Completed Projects</a></li>
                             </ul>
                         </div>
@@ -114,14 +114,14 @@
                         <!-- Hero Image Start -->
                         <div class="page-single-image">
                             <figure class="image-anime reveal">
-                                <img src="images/amenity-image-1.jpg" alt="The Gem City — Residential Plotting by Doffin Constructions LLP">
+                                <img src="images/amenity-image-1.jpg" alt="The Gem City — Residential Only by Doffin Constructions LLP">
                             </figure>
                         </div>
                         <!-- Hero Image End -->
 
                         <!-- Project Entry Start -->
                         <div class="amenity-entry">
-                            <p class="wow fadeInUp">The Gem City is Doffin Constructions LLP's benchmark luxury residential plotting project, spread across 25 acres of prime land in Saneta on the Landran-Banur Road. It offers the perfect canvas for bespoke homebuilders and long-term asset investors who seek the ideal blend of serenity, wide-open spaces, and seamless city connectivity.</p>
+                            <p class="wow fadeInUp">The Gem City is Doffin Constructions LLP's benchmark residential plotting project, spread across 25 acres of prime land in Saneta on the Landran-Banur Road. It offers the perfect canvas for bespoke homebuilders and long-term asset investors who seek the ideal blend of serenity, wide-open spaces, and seamless city connectivity.</p>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Residents of The Gem City benefit from wide internal roads, lush and serene surroundings, and a well-planned community layout that ensures a tranquil lifestyle without sacrificing urban convenience. This is more than just land — it is a canvas for your future estate.</p>
 
                             <!-- Key Features Start -->
@@ -253,7 +253,7 @@
                                         </h2>
                                         <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>You can reach our sales team at +91 82950 50505 or email doffinconstructionsllp@gmail.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
+                                                <p>You can reach our sales team at +91 82950 50505 or email info@doffinconstructionsllp.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
                                             </div>
                                         </div>
                                     </div>

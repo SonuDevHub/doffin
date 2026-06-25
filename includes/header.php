@@ -39,9 +39,9 @@
                                         </ul>
                                     </li>
 
-                                    <!-- Category 2: Residential Plotting -->
+                                    <!-- Category 2: Residential Only -->
                                     <li class="nav-item submenu">
-                                        <a class="nav-link" href="#">Residential Plotting</a>
+                                        <a class="nav-link" href="#">Residential Only</a>
                                         <ul>
                                             <li class="nav-item">
                                                 <a class="nav-link" href="project-gem-city">The Gem City</a>
@@ -49,13 +49,6 @@
                                             <li class="nav-item">
                                                 <a class="nav-link" href="project-majestic-city">Majestic City</a>
                                             </li>
-                                        </ul>
-                                    </li>
-
-                                    <!-- Category 3: Luxury Residences -->
-                                    <li class="nav-item submenu">
-                                        <a class="nav-link" href="#">Luxury Residences</a>
-                                        <ul>
                                             <li class="nav-item">
                                                 <a class="nav-link" href="project-fiona-gardens">Fiona Gardens</a>
                                             </li>

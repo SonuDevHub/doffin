@@ -8,7 +8,7 @@
     <meta name="description" content="Fiona Gardens by Doffin Constructions LLP — Luxury Residences in Panchkula Sector 21. A premium residential development crafted for an elevated lifestyle in one of Tricity's most sought-after locations.">
     <meta name="keywords" content="Fiona Gardens Panchkula, luxury residences Sector 21 Panchkula, Doffin luxury project, premium homes Panchkula, residential Tricity">
     <meta name="author" content="Doffin Constructions LLP">
-    <title>Fiona Gardens — Luxury Residences | Doffin Constructions LLP</title>
+    <title>Fiona Gardens — Residential Only | Doffin Constructions LLP</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/logo/loader/loader.svg"">
     <link rel=" preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -73,9 +73,9 @@
                             <h2 class="page-category-list-title">Our Projects</h2>
                             <ul>
                                 <li><a href="project-luxe-square.html">The Luxe Square — Commercial</a></li>
-                                <li><a href="project-gem-city.html">The Gem City — Residential Plotting</a></li>
+                                <li><a href="project-gem-city.html">The Gem City — Residential Only</a></li>
                                 <li><a href="project-majestic-city.html">Majestic City — Township</a></li>
-                                <li><a href="project-fiona-gardens.html" class="active">Fiona Gardens — Luxury Residences</a></li>
+                                <li><a href="project-fiona-gardens.html" class="active">Fiona Gardens — Residential Only</a></li>
                                 <li><a href="projects-legacy.html">Completed Projects</a></li>
                             </ul>
                         </div>
@@ -114,7 +114,7 @@
                         <!-- Hero Image Start -->
                         <div class="page-single-image">
                             <figure class="image-anime reveal">
-                                <img src="images/amenity-image-1.jpg" alt="Fiona Gardens — Luxury Residences by Doffin Constructions LLP">
+                                <img src="images/amenity-image-1.jpg" alt="Fiona Gardens — Residential Only by Doffin Constructions LLP">
                             </figure>
                         </div>
                         <!-- Hero Image End -->
@@ -253,7 +253,7 @@
                                         </h2>
                                         <div id="collapse5" class="accordion-collapse collapse" role="region" aria-labelledby="heading5" data-bs-parent="#accordion">
                                             <div class="accordion-body">
-                                                <p>You can reach our sales team at +91 82950 50505 or email doffinconstructionsllp@gmail.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
+                                                <p>You can reach our sales team at +91 82950 50505 or email info@doffinconstructionsllp.com. You are also welcome to visit our corporate office at Motia Guilford, PR 7, SR 116 Road, Bir Chhat, Mohali, Punjab - 140603.</p>
                                             </div>
                                         </div>
                                     </div>

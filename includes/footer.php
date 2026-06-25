@@ -84,7 +84,7 @@
                                 <div class="footer-contact-item-content">
                                     <h4>Email Address</h4>
                                     <p><a
-                                            href="mailto:doffinconstructionsllp@gmail.com">doffinconstructionsllp@gmail.com</a>
+                                            href="mailto:info@doffinconstructionsllp.com">info@doffinconstructionsllp.com</a>
                                     </p>
                                 </div>
                             </div>
